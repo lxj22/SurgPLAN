@@ -1,4 +1,4 @@
-# VLSurg DATASET
+# SurgPLAN
 
 The official codes for [**VLSurg: A Versatile Laparoscopic Surgical Video Dataset Bridges General AI and Modern Operating Room**](linktopaper)
 
