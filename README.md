@@ -1,6 +1,6 @@
 # SurgPLAN
 
-The official codes for [**SurgPLAN: Surgical Phase Localization Network for Phase Recognition**]([linktopaper](https://arxiv.org/abs/2311.09965))
+The official codes for [**SurgPLAN: Surgical Phase Localization Network for Phase Recognition**]([https://arxiv.org/abs/2311.09965])
 
 ## Introduction 
 
